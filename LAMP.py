@@ -1,5 +1,3 @@
-# Ultralytics YOLO 🚀, AGPL-3.0 license
-
 import sys, os, torch, math, time, warnings
 import torch_pruning as tp
 import matplotlib.pylab as plt
